@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(181, 194, 189);
+    background-color: rgb(194, 194, 194);
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
 }
 li{
-    font-size: 15px;
+    font-size: 20px;
 }
 p{
-    font-size: 21px;
+    font-size: 25px;
 }
