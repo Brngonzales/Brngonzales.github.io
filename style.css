@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     background-color: rgb(245, 178, 146);
+=======
+    background-color: rgb(240, 232, 229);
+>>>>>>> mudando-cor-bg-final
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
