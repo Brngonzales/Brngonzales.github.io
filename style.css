@@ -1,16 +1,60 @@
-body{
-<<<<<<< HEAD
-    background-color: rgb(245, 178, 146);
-=======
-    background-color: rgb(240, 232, 229);
->>>>>>> mudando-cor-bg-final
+* {
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
 }
-h1 {
-    font-family: 'Montserrat', sans-serif;
+
+body {
+    background-color: F7F0F5;
+    font-family: 'Bebas Neue', sans-serif;
+    
 }
-li{
-    font-size: 15px;
+ h1{
+font-size: 20px;
+ }
+
+#cabecalho {
+    top: 0;
+    position: fixed;
+    background-color: rgb(240, 89, 89);
+    color: white;
+    width: 100%;
+    padding: 10px 15px;
+    text-align: center;
 }
-p{
-    font-size: 20px;
+
+.descricao {
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+#descrito {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.foto {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+#eu {
+    margin-top: 0px;
+    margin-left: 25px;
+}
+.links {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+#indice {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#caixa{
+    margin-top: 20px;
+    margin-left: 10px;
+    display: inline-block;
+  border: 1px solid black;
+  padding: 10px;
 }
